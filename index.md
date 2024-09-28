@@ -3,16 +3,48 @@ title: Home Page
 layout: default
 ---
 
-# Welcome to My Markdown-Based GitHub Pages Site
+# ***Ducks are cool***
 
-This site is built using Markdown files without any HTML.
+'Lorem ipsum' dolor sit amet, consectetur 'adipiscing elit', sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 'Important stuff'.
 
-## About
+<a name="anchor-point"></a>
 
-You can write content in Markdown, and it will automatically be converted into a webpage by Jekyll. Markdown supports headings, paragraphs, lists, images, links, and more!
+Ducks!
 
-### Features
+![Duck](/Bucephala-albeola-010.jpg)
 
-- Simple to use
-- Write everything in Markdown
-- Automatically generates a static website
+## **Why ducks are _cool_**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Some colours `#ffffff`, `#000000`, `rgb(9, 105, 218)`, and `#333333`.
+
+### *Reason one for ducks being cool*
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+
+Someone said so once
+They look cool
+
+> Someone said so once
+> They look cool
+
+### *Reason two for ducks being cool*
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+That said, [Ducks are cool](https://en.wikipedia.org/wiki/Duck).
+
+[Ducks!](#anchor-point)
+
+# Ducks are cute
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+
+Link to ducks are cool: [Cool link](#ducks-are-cool)
+
+## Why ducks are <sup>extremely</sup> cute
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+# ~~Ducks are scary~~
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
