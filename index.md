@@ -4,7 +4,7 @@
 
 <a name="anchor-point"></a>
 
-Ducks! :duck: :duck: :duck: :duck:
+Ducks! 
 
 ![Duck](/Bucephala-albeola-010.jpg)
 
@@ -55,7 +55,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 > [!CAUTION]
 > Ducks will be scared if you scream at them.
 
-- [x] Look at this web page :tada: :heart_eyes: :parrot:
+- [x] Look at this web page
 
 [^1]: A reference.
 [^2]: A second reference.
